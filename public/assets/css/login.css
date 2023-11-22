@@ -1,0 +1,41 @@
+body {
+	background-color: white;
+}
+
+.radius-box {
+	border-radius: 50%;
+}
+
+.img-left {
+	background-size: cover;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 5%;
+}
+
+.box-right {
+	background-color: rgb(248, 248, 248);
+	text-align: center;
+	border-top-right-radius: 5%;
+	border-bottom-right-radius: 5%;
+	border-right: 1px solid white;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.box-login {
+	padding: 10% 5%;
+}
+
+.box-regis {
+	padding: 3% 5%;
+}
+
+.box-right .form-group label {
+	margin: 15px 0 10px 0;
+	float: left;
+}
+
+.box-right .button-login {
+	margin-top: 7%;
+	width: 100%;
+}

@@ -1,0 +1,29 @@
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #ccc;
+}
+
+.card {
+	width: 19rem;
+	height: 440px;
+}
+
+.card img {
+	height: 180px;
+}
+
+.kotak-berita {
+	margin-top: 71px;
+}
+
+.waktu_berita {
+	margin-top: -30px;
+	font-size: 12px;
+}
